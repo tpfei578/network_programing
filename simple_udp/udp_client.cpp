@@ -1,12 +1,4 @@
 #include "lib/common.h"
-#include <err.h>
-#include <errno.h>
-#include <error.h>
-// void error(int a, int b, char *str)
-// {
-//     b = a;
-//     printf("%s", str);
-// }
 
 int main(int argc, char **argv)
 {
